@@ -11,3 +11,8 @@ The output displayed once the code is ran shows very clearly. At the top side by
 The code could be improved by making it more readable. With more in line comments individuals would have a better understanding of each function. 
 
 # Which pieces of the code did you find most challenging to write, and how did you overcome this? What tools or resources are you adding to your support network?
+
+The most challanging part was figuring out how to roll over time. Thinking of mathematics and time I was over to think simply 59 or below the time does not roll over once 60 is reached in seconds or minutes the time rolls over adding 1 minute or 1 hour. 
+
+# What skills from this project will be particularly transferable to other projects or course work?
+
