@@ -16,3 +16,8 @@ The most challanging part was figuring out how to roll over time. Thinking of ma
 
 # What skills from this project will be particularly transferable to other projects or course work?
 
+Thinking of the time it took to create the project can help me in other courses with time management. The issue of thinking how to roll over time and changing am to pm will help with my critical thinking and problem solving skills. 
+
+# How did you make this program maintainable, readable, and adaptable?
+
+With in line comments the code was readable even to individuals not fully understanding the coding process. With the user having options to add time they were able to change their orgininal input making the output code adapatable and maintainable. 
